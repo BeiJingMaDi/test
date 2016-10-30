@@ -1,2 +1,2 @@
-add some content
-add local 6666
+
+我熟练掌握C,C++,C#,.net,scala,java,php,perl,python,shell,android,ios,unity3d,cocos-2d-x
